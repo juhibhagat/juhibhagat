@@ -12,7 +12,7 @@
 <br>
 <p>🌱 I’m currently learning Next.js</p>
 <br>
-<p>👨‍💻 All of my projects are available at https://github.com/nitishkrsahu</p>
+<p>👨‍💻 All of my projects are available at https://github.com/juhibhagat</p>
 
 ###
 
@@ -56,16 +56,16 @@
 
 <div>
   <p>🏆 GitHub Trophies: </p>
-  <img src="https://github-profile-trophy.vercel.app?username=nitishkrsahu&theme=radical&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&radius=16&theme=redical&area=true&order=5&bg_color=#000&color=#fff&hide_border=false&line=#008060" height="300" alt="activity-graph graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishkrsahu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkrsahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=juhibhagat&theme=radical&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juhibhagat&radius=16&theme=redical&area=true&order=5&bg_color=#000&color=#fff&hide_border=false&line=#008060" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juhibhagatu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhibhagat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   
 </div>
 
 <div align="center">
   <h3 text="center">Social Links</h3>
-  <a href="https://www.linkedin.com/in/nitishkrsahu/" target="_blank">
+  <a href="www.linkedin.com/in/juhi-kumari-459978234" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
